@@ -25,7 +25,7 @@ textarea,
 .table-condensed > tfoot > tr > th,
 .table-condensed > thead > tr > td,
 .table-condensed > thead > tr > th {
-	padding-top: 12px;
+	padding-top: 15px;
 }
 
 .table-condensed > tbody > tr > td:first-child,
